@@ -1,0 +1,2 @@
+# plutoniumcoin
+plutoniumcoin cryptocurrency
